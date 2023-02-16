@@ -1,6 +1,6 @@
 Username: jmtheo8
 
-https://replit.com/@jmtheo8/Demo-Flask-Project-JT#main.py
+https://demo-flask-project-jt.jmtheo8.repl.co/about
 
 
 * Instructions
